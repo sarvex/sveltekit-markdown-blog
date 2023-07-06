@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#cc9ea9",
+    "titleBar.activeBackground": "#bb7c8b",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#bb7c8b99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#bb7c8b",
+  "marquee.widgets.npm-stats.packageNames": [
+    "sveltekit-markdown-blog"
+  ]
+}
