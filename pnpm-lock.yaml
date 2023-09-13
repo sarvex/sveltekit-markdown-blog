@@ -12,8 +12,8 @@ dependencies:
     specifier: ^5.0.4
     version: 5.0.4
   lucide-svelte:
-    specifier: ^0.276.0
-    version: 0.276.0(svelte@4.0.4)
+    specifier: ^0.277.0
+    version: 0.277.0(svelte@4.0.4)
   open-props:
     specifier: ^1.5.10
     version: 1.5.10
@@ -1430,8 +1430,8 @@ packages:
       yallist: 4.0.0
     dev: true
 
-  /lucide-svelte@0.276.0(svelte@4.0.4):
-    resolution: {integrity: sha512-SKj37PCOHe8gHxogidf1+TJKeezgir/yjrC6GWs2VyiCQKjnURBB6VZ/w1qFDItTTfnX0uJHEP/VxCDdT7lDJw==}
+  /lucide-svelte@0.277.0(svelte@4.0.4):
+    resolution: {integrity: sha512-HrlMk0mTOd3MVSWA2ZHR79QrCycLRV4pey4HWGnGGoVFsh0/P7zGyDCJxy/MKe2t4SJtcStLdKIybMHc5pjFSQ==}
     peerDependencies:
       svelte: '>=3 <5'
     dependencies:
