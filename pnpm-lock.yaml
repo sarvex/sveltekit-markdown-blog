@@ -12,8 +12,8 @@ dependencies:
     specifier: ^5.0.4
     version: 5.0.4
   lucide-svelte:
-    specifier: ^0.292.0
-    version: 0.292.0(svelte@4.0.4)
+    specifier: ^0.293.0
+    version: 0.293.0(svelte@4.0.4)
   open-props:
     specifier: ^1.5.10
     version: 1.5.10
@@ -1151,7 +1151,7 @@ packages:
       normalize-path: 3.0.0
       readdirp: 3.6.0
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /code-red@1.0.3:
@@ -1762,8 +1762,8 @@ packages:
       yallist: 4.0.0
     dev: true
 
-  /lucide-svelte@0.292.0(svelte@4.0.4):
-    resolution: {integrity: sha512-bnTpg9pbm6pQDc+YiLK2yxtRFk2Cc+hbzwjAPaV85k56x10CJ9LsXjon6wRrlNTSdxJR7GOsRjz0A5ZNu3Z7dg==}
+  /lucide-svelte@0.293.0(svelte@4.0.4):
+    resolution: {integrity: sha512-nQ6QO6anjjiVoipw3dNptzI6NWuiArlhysVtRpoAWICSQVMR3ybwVf6piUUqbjGe+RfGufLzCl93C/yhsS+p4w==}
     peerDependencies:
       svelte: '>=3 <5'
     dependencies:
@@ -2125,7 +2125,7 @@ packages:
     engines: {node: '>=14.18.0', npm: '>=8.0.0'}
     hasBin: true
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /rollup@4.4.1:
@@ -2549,7 +2549,7 @@ packages:
       postcss: 8.4.31
       rollup: 3.26.1
     optionalDependencies:
-      fsevents: 2.3.2
+      fsevents: 2.3.3
     dev: true
 
   /vite@5.0.0:
