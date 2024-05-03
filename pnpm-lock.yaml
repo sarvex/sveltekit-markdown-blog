@@ -7,10 +7,10 @@ settings:
 dependencies:
   '@fontsource/jetbrains-mono':
     specifier: ^5.0.4
-    version: 5.0.4
+    version: 5.0.20
   '@fontsource/manrope':
     specifier: ^5.0.4
-    version: 5.0.4
+    version: 5.0.20
   lucide-svelte:
     specifier: ^0.378.0
     version: 0.378.0(svelte@4.0.4)
@@ -325,12 +325,12 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
 
-  /@fontsource/jetbrains-mono@5.0.4:
-    resolution: {integrity: sha512-IJSVgOxGwoiI1TPwl0cT1SZChO+3yo4Ab6dBFk6Y00gs+sTmvFYW/wJDLmTX/3gTZd0gxz8w7xKAyBTi3ShEfg==}
+  /@fontsource/jetbrains-mono@5.0.20:
+    resolution: {integrity: sha512-QkrihYWqftzs+04TinulIhnFqNwO6990HR07iCUae/6daOZAMy7urUPzytrRT9M8KLTTHBeHOY0CKqOs1+o2OQ==}
     dev: false
 
-  /@fontsource/manrope@5.0.4:
-    resolution: {integrity: sha512-zrbRBhOc0WiIoNfHVA5osSTpjYORKpwbwCUnAGNjR8SsFEXc26hCJLsF1c6U3zkN0JMWPs10EnyfzP5ngQfNtg==}
+  /@fontsource/manrope@5.0.20:
+    resolution: {integrity: sha512-FW1t+WAvJroALa7zgd5S2dn3zy/sxxHhry/OwDGKmO7Be/zlLBIVaWW+cjyfyA6a6zWEx5YQ4OFfYlA6An5osQ==}
     dev: false
 
   /@humanwhocodes/config-array@0.11.10:
