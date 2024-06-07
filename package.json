@@ -37,7 +37,7 @@
   "dependencies": {
     "@fontsource/jetbrains-mono": "^5.0.4",
     "@fontsource/manrope": "^5.0.4",
-    "lucide-svelte": "^0.378.0",
+    "lucide-svelte": "^0.390.0",
     "open-props": "^1.5.10"
   }
 }
