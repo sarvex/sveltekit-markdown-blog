@@ -16,7 +16,7 @@ dependencies:
     version: 0.416.0(svelte@4.2.18)
   open-props:
     specifier: ^1.5.10
-    version: 1.7.4
+    version: 1.7.5
 
 devDependencies:
   '@playwright/test':
@@ -1769,8 +1769,8 @@ packages:
       mimic-fn: 4.0.0
     dev: true
 
-  /open-props@1.7.4:
-    resolution: {integrity: sha512-LfzWOJq4I79GxtpT1/CucxujndqWjAdcC2H6gSJo1TmFGzyGv1VJWJQ1BQnui0/YgTNI+AaG1pEcq5/DCGL8RQ==}
+  /open-props@1.7.5:
+    resolution: {integrity: sha512-DajjLQDJgIa0i+QdB2q5M8lNLo2ICk+DbDh4TsqNsT1tAO8Zm8F7dndSkLMQkobT98lbvDMMpJWO8NT0ibjrjA==}
     dev: false
 
   /optionator@0.9.4:
