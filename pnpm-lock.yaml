@@ -12,8 +12,8 @@ dependencies:
     specifier: ^5.0.4
     version: 5.0.20
   lucide-svelte:
-    specifier: ^0.390.0
-    version: 0.390.0(svelte@4.2.18)
+    specifier: ^0.416.0
+    version: 0.416.0(svelte@4.2.18)
   open-props:
     specifier: ^1.5.10
     version: 1.7.4
@@ -1632,8 +1632,8 @@ packages:
       get-func-name: 2.0.2
     dev: true
 
-  /lucide-svelte@0.390.0(svelte@4.2.18):
-    resolution: {integrity: sha512-zaHTuk1KB2PqYrF/UY87g8DkforXEj7sYOo2Ml3LokNzx35dRJMHZHsuEXXTj9gqB76Da0o6Tud15bmtNBX1/Q==}
+  /lucide-svelte@0.416.0(svelte@4.2.18):
+    resolution: {integrity: sha512-1tEN4VZhUXGmV0UCSDPdUjHgdRVZocZFYB2ufoIFie1ux6kQEiwc64gx8WBUGQY9AoN9CPMlTbGMNb6NzaSMmg==}
     peerDependencies:
       svelte: ^3 || ^4 || ^5.0.0-next.42
     dependencies:
