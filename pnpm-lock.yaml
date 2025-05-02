@@ -15,8 +15,8 @@ importers:
         specifier: ^5.0.4
         version: 5.0.20
       lucide-svelte:
-        specifier: ^0.483.0
-        version: 0.483.0(svelte@4.2.19)
+        specifier: ^0.507.0
+        version: 0.507.0(svelte@4.2.19)
       open-props:
         specifier: ^1.5.10
         version: 1.7.14
@@ -952,8 +952,8 @@ packages:
   loupe@2.3.7:
     resolution: {integrity: sha512-zSMINGVYkdpYSOBmLi0D1Uo7JU9nVdQKrHxC8eYlV+9YKK9WePqAlL7lSlorG/U2Fw1w0hTBmaa/jrQ3UbPHtA==}
 
-  lucide-svelte@0.483.0:
-    resolution: {integrity: sha512-MyMgEVLlFfPbyodGpkB+KCpyPkpjI7EKiFw1crA92B1ZXRK5hq5vTsGWAm9Nt3GAKHunoNc5MVsq3EOCz0DZSQ==}
+  lucide-svelte@0.507.0:
+    resolution: {integrity: sha512-qJRbz1dWyTzV05VaXIKhPeQ6mGBTIbKI05YNymym6QZSsn/mt7P154qr4SfKl+SEJlOmYPbHVjK1D1qZwa3r3w==}
     peerDependencies:
       svelte: ^3 || ^4 || ^5.0.0-next.42
 
@@ -2239,7 +2239,7 @@ snapshots:
     dependencies:
       get-func-name: 2.0.2
 
-  lucide-svelte@0.483.0(svelte@4.2.19):
+  lucide-svelte@0.507.0(svelte@4.2.19):
     dependencies:
       svelte: 4.2.19
 
